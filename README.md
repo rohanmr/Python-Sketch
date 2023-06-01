@@ -1,6 +1,8 @@
 # Python-Sketch
 
-# Install lib sketchpy 
+Follow the Steps:
+
+Install lib sketchpy 
 
 1. First Download the code
 2. Make folder name as Python in C disk
