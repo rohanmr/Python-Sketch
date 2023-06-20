@@ -4,7 +4,13 @@ Follow the Steps:
 
 ## Step 1:
 
-Install lib Sketchpy
+Install Lib Sketchpy.
+
+```bash
+
+pip install sketchpy
+
+```
 
 ## Step 2:
 
