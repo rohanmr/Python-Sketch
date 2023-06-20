@@ -1,12 +1,10 @@
 # Python-Sketch
 
-
-
 Follow the Steps:
 
 Step 1:
 
-Install lib Sketchpy.
+Install lib Sketchpy
 
 Step 2:
 
