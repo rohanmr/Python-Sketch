@@ -2,11 +2,11 @@
 
 Follow the Steps:
 
-Step 1:
+## Step 1:
 
 Install lib Sketchpy
 
-Step 2:
+## Step 2:
 
 1. First Download the code.
 2. Make folder name as Python in C disk.
@@ -15,7 +15,7 @@ Step 2:
 5. Open folder in VS code.
 6. Run directly in vs code.
 
-Output of Code:
+## Output of Code:
 
 ![Screenshot 2023-05-24 214532](https://github.com/rohanmr/Python-Sketch/assets/122428641/f822c156-f085-4706-b645-236b99658459)
 
