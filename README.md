@@ -15,7 +15,7 @@ pip install sketchpy
 ## Step 2:
 
 1. First Download the code.
-2. Make folder name as Python in C disk.
+2. Make the folder name Python in C disk.
 3. Copy the python file and past in the folder.
 4. Copy Svg files and past in the folder.
 5. Open folder in VS code.
