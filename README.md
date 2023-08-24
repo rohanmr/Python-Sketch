@@ -21,7 +21,7 @@ pip install sketchpy
 5. Open the folder in VS code.
 6. Run directly in vs. code.
 
-## Output of Code:
+## GUI Output:
 
 ![Screenshot 2023-05-24 214532](https://github.com/rohanmr/Python-Sketch/assets/122428641/f822c156-f085-4706-b645-236b99658459)
 
